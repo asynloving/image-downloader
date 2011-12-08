@@ -8,3 +8,9 @@
 pythonを少しわかる方ならこのスクリプトを改造して自分仕様にしていただいてかまいません。
 ライセンスはNYSLでｗ
 
+# how to use
+<pre>
+$ git clone git://github.com/alice1017/image-downloader.git
+$ cd image-downloader
+$ ./downloaader [URL] [画像を置きたいディレクトリ]
+</pre>
