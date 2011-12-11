@@ -7,7 +7,7 @@ import urllib
 import datetime
 from BeautifulSoup import BeautifulSoup
 
-print "Image Downloader ver 1.0.3"
+print "Image Downloader ver 1.0.4"
 
 try:
 	url = sys.argv[1]
